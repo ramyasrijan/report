@@ -1,0 +1,4 @@
+access node layout reports:
+  title: 'Access node layout reports'
+  description: 'Access table list of nodes using layout builder, blocks & block types being used in the layout.'
+  restrict access: true

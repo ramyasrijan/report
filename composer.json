@@ -1,0 +1,22 @@
+{
+  "name": "drupal/layout_builder_usage_reports",
+  "description": "Lists all nodes using layout builder, blocks & block types being used in the layout and more.",
+  "type": "drupal-module",
+  "keywords": ["Drupal", "Layout Builder"],
+  "homepage": "http://drupal.org/project/layout_builder_usage_reports",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Nikhil Dubbaka (TechNikh)",
+      "homepage": "https://www.drupal.org/u/technikh",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/layout_builder_usage_reports",
+    "source": "https://git.drupalcode.org/project/layout_builder_usage_reports"
+  },
+  "require": {
+    "drupal/core": "^8.7.7 || ^9.0"
+  }
+}

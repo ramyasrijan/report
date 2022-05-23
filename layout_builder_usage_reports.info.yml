@@ -1,0 +1,14 @@
+name: 'layout builder usage reports'
+type: module
+description: 'Lists all nodes using layout builder, blocks & block types being used in the layout and more.'
+package: 'Custom'
+core: 8.x
+core_version_requirement: ^8 || ^9
+configure: layout_builder_usage_reports.report_form
+dependencies:
+  - layout_builder
+
+# Information added by Drupal.org packaging script on 2020-09-24
+version: '1.0.1'
+project: 'layout_builder_usage_reports'
+datestamp: 1600909154

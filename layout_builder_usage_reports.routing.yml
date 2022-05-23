@@ -1,0 +1,8 @@
+
+layout_builder_usage_reports.report_form:
+  path: '/admin/layout/usage/report'
+  defaults:
+    _form: '\Drupal\layout_builder_usage_reports\Form\ReportForm'
+    _title: 'Layout Builder Usage Report'
+  requirements:
+    _permission: 'access node layout reports'
